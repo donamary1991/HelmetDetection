@@ -1,0 +1,9 @@
+streamlit
+pymysql
+smtplib
+opencv-python
+numpy
+ultralytics
+pillow
+pytesseract
+matplotlib
