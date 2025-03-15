@@ -16,7 +16,7 @@ Features
 
 
 
-How the App Works:
+# How the App Works:
  
 Upload an image.
 
