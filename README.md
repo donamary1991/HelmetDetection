@@ -18,14 +18,14 @@ Features
 
 # How the App Works:
  
-Upload an image.
+✔ Upload an image.
 
-YOLOv8 detects motorcyclists, helmets, and license plates.
+✔ YOLOv8 detects motorcyclists, helmets, and license plates.
 
-If a motorcyclist is not wearing a helmet, their license plate is extracted.
+✔ If a motorcyclist is not wearing a helmet, their license plate is extracted.
 
-The license plate is stored in the MySQL database.
+✔ The license plate is stored in the MySQL database.
 
-The app fetches the registered email of the vehicle owner from the database.
+✔ The app fetches the registered email of the vehicle owner from the database.
 
-An email is sent to the owner about the violation.
+✔ An email is sent to the owner about the violation.
