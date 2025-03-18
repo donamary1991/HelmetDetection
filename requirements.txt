@@ -1,9 +1,8 @@
-streamlit
-pymysql
-smtplib
-opencv-python
-numpy
-ultralytics
-pillow
-pytesseract
-matplotlib
+streamlit                 1.43.2
+PyMySQL                   1.1.1
+opencv-python             4.11.0.86
+numpy                     2.1.1
+ultralytics               8.3.89
+pillow                    11.1.0
+pytesseract               0.3.13
+matplotlib                3.10.1
